@@ -1,3 +1,8 @@
 GD-1/gd1_gala/movies/*
 GD-1/gd1_gala/phi1_phi2_plots/*
 GD-1/gd1_gala/snapshot_files/*
+*/.DS_store
+.DS_Store
+GD-1/gd1_agama/.DS_Store
+GD-1/gd1_gala/.DS_Store
+**/.DS_Store
